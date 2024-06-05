@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Dpaisa [Dpaisa](https://www.dpaisa.com/)
 
-- 💬 Ask me about **React React Native tailwindcss**
+- 💬 Ask me about **React,ReactNative,tailwindcss**
 
 - 📫 How to reach me **anandadahal37@gmail.com**
 
